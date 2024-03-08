@@ -49,4 +49,10 @@ Instalar o Express:
 npm install express 
 ~~~
 
+Instalar a extensão `Thunder Client` no VSCod
 
+Para executar:
+
+1. Clonar
+2. rodar `npm install`
+3. rodar `nodemo main.js`
