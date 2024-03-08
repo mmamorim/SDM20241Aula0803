@@ -19,7 +19,9 @@ git clone https://github.com/mmamorim/SDM20241Aula0803.git
 npm init -y
 ~~~
 
-6. Para executar 
+6. Criar no projeto um arquivo chamado `.gitignore` e adicionar nele a linha `node_modules` para que seja ignorado a pasta contendo os modulos instalados 
+ 
+7. Para executar 
 
 ~~~
 node main.js
@@ -41,4 +43,10 @@ Sobre modularização de código no javascript: [ver blog lucas Santos](https://
 > Existe 2 formas: 
 >  1. CommonJS: usando `require` e `module.exports` No package.json -> "type": "module"
 >  2. ESM: usando `import` e `export` + `default`  No package.json -> "type": "module"
-> 
+
+Instalar o Express:
+~~~
+npm install express 
+~~~
+
+
