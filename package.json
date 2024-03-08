@@ -1,0 +1,16 @@
+{
+  "name": "sdm20241aula0803",
+  "version": "1.0.0",
+  "description": "## NOSSO PRIMEIRO SERVIDOR HTTP",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marcelo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
