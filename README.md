@@ -13,7 +13,7 @@ git clone https://github.com/mmamorim/SDM20241Aula0803.git
 
 3. Abrir pasta no VSCode
 4. Abrir terminal
-5. Rodar comando para criar o arquivo package.json, pois iremos instalar alguns pacotes que serão gerenciados pelo **npm** (veja em rockcontent blog)[https://rockcontent.com/br/blog/npm/]
+5. Rodar comando para criar o arquivo package.json, pois iremos instalar alguns pacotes que serão gerenciados pelo **npm** [veja em rockcontent blog](https://rockcontent.com/br/blog/npm/)
 
 ~~~
 npm init
@@ -25,3 +25,6 @@ npm init
 node main.js
 ~~~
 
+***
+
+asas
