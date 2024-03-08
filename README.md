@@ -8,12 +8,12 @@ Iniciando projeto...
 2. Clonar o repositório no seu local
 
 ~~~
-git clone https://github.com/mmamorim/SDM20241Aula0103.git
+git clone https://github.com/mmamorim/SDM20241Aula0803.git
 ~~~
 
 3. Abrir pasta no VSCode
 4. Abrir terminal
-5. rodar comando para criar o arquivo package.json
+5. Rodar comando para criar o arquivo package.json, pois iremos instalar alguns pacotes que serão gerenciados pelo **npm** [https://rockcontent.com/br/blog/npm/](veja em rockcontent blog)
 
 ~~~
 npm init
